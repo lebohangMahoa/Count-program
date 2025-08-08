@@ -19,7 +19,7 @@ JavaScript – Random number generation and interactivity
 
 Clone the repository:
 
-git clone https://github.com/your-username/dice-roller.git
+git clone https://github.com/lebohangMahoa/dice-roller.git
 Open index.html in a browser.
 
 Click the ROLL button to roll three dice
